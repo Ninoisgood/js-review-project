@@ -1,1 +1,1 @@
-# js-review-project
+JavaScript Review Project by CHRIS NINO PAGENTE  
